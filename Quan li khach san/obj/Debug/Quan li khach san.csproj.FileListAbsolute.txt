@@ -1,0 +1,15 @@
+D:\C#\Quan li khach san\Quan li khach san\bin\Debug\Quan li khach san.exe.config
+D:\C#\Quan li khach san\Quan li khach san\bin\Debug\Quan li khach san.exe
+D:\C#\Quan li khach san\Quan li khach san\bin\Debug\Quan li khach san.pdb
+D:\C#\Quan li khach san\Quan li khach san\obj\Debug\Quan li khach san.csproj.AssemblyReference.cache
+D:\C#\Quan li khach san\Quan li khach san\obj\Debug\Quan_li_khach_san.Form1.resources
+D:\C#\Quan li khach san\Quan li khach san\obj\Debug\Quan_li_khach_san.Properties.Resources.resources
+D:\C#\Quan li khach san\Quan li khach san\obj\Debug\Quan li khach san.csproj.GenerateResource.cache
+D:\C#\Quan li khach san\Quan li khach san\obj\Debug\Quan li khach san.csproj.CoreCompileInputs.cache
+D:\C#\Quan li khach san\Quan li khach san\obj\Debug\Quan li khach san.exe
+D:\C#\Quan li khach san\Quan li khach san\obj\Debug\Quan li khach san.pdb
+D:\C#\Quan li khach san\Quan li khach san\obj\Debug\Quan_li_khach_san.FormHome.resources
+D:\C#\Quan li khach san\Quan li khach san\bin\Debug\Bunifu_UI_v1.52.dll
+D:\C#\Quan li khach san\Quan li khach san\obj\Debug\Quan li khach san.csproj.CopyComplete
+D:\C#\Quan li khach san\Quan li khach san\obj\Debug\Quan_li_khach_san.FormCustomer.resources
+D:\C#\Quan li khach san\Quan li khach san\obj\Debug\Quan_li_khach_san.FormRoom.resources
